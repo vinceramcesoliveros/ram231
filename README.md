@@ -1,5 +1,7 @@
 ### Hi there 👋
+> Probably my first time creating an awesome readme portfolio for github.
 
+![](https://github.githubassets.com/images/mona-whisper.gif)
 <!--
 **ram231/ram231** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
