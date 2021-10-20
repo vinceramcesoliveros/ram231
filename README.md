@@ -19,7 +19,7 @@
 
 - 📫 How to reach me(Business) **vinceramcesoliveros@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1IQBdPI37youVPbTVZIImeROT7SvKwVmQ_vLpnwaAykM/edit](https://docs.google.com/document/d/1IQBdPI37youVPbTVZIImeROT7SvKwVmQ_vLpnwaAykM/edit)
+- 📄 Know about my experiences [on my resume](https://docs.google.com/document/d/1-zZafvR8mgfA04enmdcI9dAx30zunUva42W5kTfZoVg/edit?usp=sharing)
 
 - ⚡ Fun fact **I dislike Overcooked Kinilaw**
 
