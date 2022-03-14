@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ram231" alt="ram231" /></a> </p>
 
-- 🔭 I’m currently working on [MyHero Delivery](https://play.google.com/store/apps/details?id=com.semicolon.myherodelivery)
+<!-- - 🔭 I’m currently working on [MyHero Delivery](https://play.google.com/store/apps/details?id=com.semicolon.myherodelivery) -->
 
 - 🌱 I’m currently learning **NestJS**
 
@@ -38,6 +38,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ram231&show_icons=true&locale=en" alt="ram231" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ram231&" alt="ram231" /></p>
-![](https://github.githubassets.com/images/mona-whisper.gif)
 
+![](https://github.githubassets.com/images/mona-whisper.gif)
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ram231&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github.githubassets.com/images/mona-whisper.gif)
